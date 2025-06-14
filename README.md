@@ -1,15 +1,26 @@
 📝 Basic Note-Taking Web Application
 A simple Note-Taking web application that allows users to Create, Read, Update, and Delete notes using:
 
+Technology Used
+
 🧩 Hibernate (for ORM and database interaction)
+
 🌐 JSP/Servlets (for frontend and backend logic)
+
 🚀 Apache Tomcat (as the application server)
 
+
 📌 Features
+
+
 ✅ Add new notes
+
 📄 View all notes
+
 ✏️ Update existing notes
+
 ❌ Delete notes
+
 🗃️ Uses MySQL for data storage
 
 
