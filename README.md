@@ -31,5 +31,5 @@ The project is structured with standard packages:
 com.entities contains the Hibernate entity class (Note.java).
 com.servlet includes the servlets for saving, updating, deleting, and displaying notes.
 JSP files like add_notes.jsp, edit.jsp, and show_notes.jsp handle the front-end presentation and form inputs.
-The database used is MySQL, and the Hibernate configuration is provided in hibernate.cfg.xml. The servlet mappings and deployment settings are defined in web.xml.To run the application, import it into Eclipse or IntelliJ as a Dynamic Web Project, configure the database and server, and run it on Tomcat. You can access the application via http://localhost:8080/YourAppName/.
+The database used is MySQL, and the Hibernate configuration is provided in hibernate.cfg.xml. The servlet mappings and deployment settings are defined in web.xml.To run the application, import it into Eclipse or IntelliJ as a Dynamic Web Project, configure the database and server, and run it on Tomcat. You can access the application via http://localhost:8080/Note-Taker/.
 This project is ideal for learning how to build Java-based web applications using Hibernate and JSP technologies, and how to deploy them using Apache Tomcat.
